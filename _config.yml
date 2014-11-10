@@ -1,3 +1,17 @@
 baseurl: /jekyll_know
+BASE_PATH: /jekyll_know
 #markdown: rdiscount
 #pygments: true
+highlighter: pygemnts
+
+# site settings
+title: FFNology
+description: "前端技术"
+email: 630999015@qq.com
+
+#blog logo
+logo: ""
+#博客封面
+cover: ""
+name: yiyang
+author: "破男孩"
